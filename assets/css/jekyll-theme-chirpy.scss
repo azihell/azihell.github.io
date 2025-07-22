@@ -9,3 +9,14 @@
 ';
 
 /* append your custom style below */
+
+/* Makes resume embedded PDF responsive*/
+.responsive-pdf {
+    width: 100%; /* Make it take 100% of its parent's width */
+    max-width: 1000px; /* Set a maximum width */
+    height: 80vh; /* Make its height responsive to the viewport height, or use a fixed value */
+    max-height: 1000px; /* Set a maximum height */
+    /* You might need to adjust the height based on your content */
+    display: block; /* Ensure it behaves like a block element for sizing */
+    margin: 0 auto; /* Center it if max-width is applied */
+}
