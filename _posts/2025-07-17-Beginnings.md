@@ -1,4 +1,5 @@
 ---
+published: true
 title: Data analysis - open source strikes back
 date: 2025-07-16 17:00:00 -0300
 categories: [Python, Dash]
