@@ -11,7 +11,7 @@ description: Notes to help wrap my head around statistics.
 
 ## Data Analysis with Python
 
-In my data journey next steps, I decided to explore education possibilities from more "advanced" platforms, so looking for references from people with a similar mindset sounded like a good plan. But people don't always speak volumes online (myself included!), so finding that was an easy task. Luckily I stumbled upon [Mr. Wolfgang Huang](http://www.wolfgang-huang.de/) and his very well made [Nobel laureates dashboard](https://www.nbldata.org/list). Browsing through Mr. Huang's pages online, I noticed he took the IBM Data Science Specialization full course (made of 12 courses) on Coursera and decided to understand more about this.
+In my data journey next steps, I decided to explore education possibilities from more "advanced" platforms, so looking for references from people with a similar mindset sounded like a good plan. But people don't always speak volumes online (myself included!), so finding that was an easy task. Luckily I stumbled upon [Mr. Wolfgang Huang](https://www.wolfgang-huang.de/) and his very well made [Nobel laureates dashboard](https://www.nbldata.org/list). Browsing through Mr. Huang's pages online, I noticed he took the IBM Data Science Specialization full course (made of 12 courses) on Coursera and decided to understand more about this.
 
 At the moment of this post, I am at the 7th of 11 courses of the IBM Data Analyst Specialization course... and now the struggle hit me real hard.
 
